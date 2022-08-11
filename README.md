@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @benjosph
-- 👀 I’m interested in learning more about computer science
-- 🌱 I’m currently learning CS50
-- 💞️ I’m looking to collaborate on learning computer science
 - 📫 How to reach me ...
 
 <!---
